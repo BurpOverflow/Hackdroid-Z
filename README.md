@@ -16,9 +16,9 @@ Hackdroid-Z is a python based script or tool which made for creating a reverse s
 - `-p` Specify Listening Port
 
 # CUSTOM SHELL COMMAND : 
-1. ### DOWNLOAD FILE : 
+### 1. DOWNLOAD FILE : 
 - You can download file using `download filename`
-2. ### UPLOAD FILE : 
+### 2. UPLOAD FILE : 
 - You can upload file using `upload filename`
 
 # HOW TO USE : 
@@ -48,3 +48,7 @@ Hackdroid-Z is a python based script or tool which made for creating a reverse s
 - Now you got a reverse shell.
 - You can type any command you want
 ![shell](https://miro.medium.com/max/2076/1*KU3PxN-jzazuviBDjQdvAg.png)
+
+## CONTACT ME : 
+- Twitter: [@BurpOverflow](https://github.com/BurpOverflow/)
+
