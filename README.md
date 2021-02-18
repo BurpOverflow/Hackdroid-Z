@@ -50,7 +50,7 @@ Hackdroid-Z is a python based script or tool which made for creating a reverse s
 ![shell](https://miro.medium.com/max/2076/1*KU3PxN-jzazuviBDjQdvAg.png)
 
 ## CONTACT ME : 
-- Twitter: [@BurpOverflow](https://twitter.com/BurpOverflow/)
+- Twitter: [@burpOverflow](https://twitter.com/BurpOverflow/)
 - Join Discord: [BurpOverflow](https://discord.gg/UWU8NKmayp)
 - Sub Reddit: [Sub Reddit](https://www.reddit.com/r/burpOverflow/)
 
