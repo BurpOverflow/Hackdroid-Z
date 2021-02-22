@@ -1,4 +1,4 @@
-# Hackdroid-Z
+![hackdroidz](https://img.shields.io/badge/Tool-hackdroid--Z-red)
 
 ![Hackdroid-Z](https://miro.medium.com/max/3840/1*4VtMoJ2jGvuJB26NRaL59g.jpeg)
 
