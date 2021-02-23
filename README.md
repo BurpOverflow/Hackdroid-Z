@@ -1,8 +1,10 @@
 ![hackdroidz](https://img.shields.io/badge/tool-hackdroidZ-brightgreen?style=for-the-badge&logo=github)
 
 
-█░█ ▄▀█ █▀▀ █▄▀ █▀▄ █▀█ █▀█ █ █▀▄ ▄▄ ▀█
-█▀█ █▀█ █▄▄ █░█ █▄▀ █▀▄ █▄█ █ █▄▀ ░░ █▄
+```
+  █░█ ▄▀█ █▀▀ █▄▀ █▀▄ █▀█ █▀█ █ █▀▄ ▄▄ ▀█
+  █▀█ █▀█ █▄▄ █░█ █▄▀ █▀▄ █▄█ █ █▄▀ ░░ █▄
+```
 
 # ABOUT THIS TOOL :
 Hackdroid-Z is a python based script or tool which made for creating a reverse shell. It will help you to create a reverse shell in less time. You can also inject malicious code ones you get a reverse connection. Also you can upload and download files from your target computer through reverse shell.
